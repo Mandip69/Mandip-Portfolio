@@ -1,11 +1,26 @@
-# react_portfolio
-responsive portfolio using react js and tailwind css
+# 💼 My Portfolio
 
-live preview : https://johnalexportfolio.netlify.app/
+This is my personal portfolio website built with modern web technologies. It showcases my projects, skills, and background in a sleek and responsive design.
 
-1.npm i
-2.npm run dev
+## 🚀 Tech Stack
 
-mail: codeaprogram@gmail.com
+- **Frontend**: React, Tailwind CSS
+- **Routing**: React Router
 
-happy coding :)
+
+## 📁 Features
+
+- Responsive and mobile-friendly design
+- About Me, Projects, and Contact sections
+- Project cards with links and descriptions
+- Smooth scrolling and transitions
+
+
+
+## 📫 Contact
+
+Feel free to reach out via the contact section or email me at `mandipchaudhary111@gmail.com`.
+
+---
+
+> Built with ❤️ and a passion for clean UI.
