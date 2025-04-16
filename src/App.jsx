@@ -9,6 +9,7 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Bot from "./components/Bot";
 import Education from "./components/Education";
+import Exprenice from "./components/Exprenice";
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
       <Skills />
       <Project />
       <Education/>
+      <Exprenice/>
       <Contact />
       <Footer />
     </div>

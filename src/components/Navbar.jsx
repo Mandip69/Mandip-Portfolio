@@ -9,6 +9,7 @@ const Navbar = () => {
     { name: "SKILLS", link: "#skills" },
     { name: "PROJECTS", link: "#projects" },
     { name: "EDUCATION", link: "#education" },
+    { name: "EXPRIENCE", link: "#exprenice" },
     { name: "CONTACT", link: "#contact" },
   ];
   useEffect(() => {
