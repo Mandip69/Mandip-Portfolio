@@ -6,6 +6,7 @@ const Exprenice = () => {
       logo: "logo-arrow",
       degree: 'Cloud Apprenticeship',
       institution: 'Aerawat Corp',
+      // institution: 'Phoenix College of Management, Kathmandu',
       grades: 'Aws Cloud',
       year: 'february 2025 - present',
       desc: "Learn about various Cloud service .",
